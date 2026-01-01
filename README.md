@@ -27,6 +27,7 @@ Le modèle de données repose sur plusieurs domaines fonctionnels :
 
 Les tables sont reliées afin de permettre des analyses croisées par période, produit et point de vente.
 Des contrôles de cohérence ont été réalisés avant l’analyse pour garantir la fiabilité des résultats.
+
 ---
 ## Executive Summary – Visual Overview
 
