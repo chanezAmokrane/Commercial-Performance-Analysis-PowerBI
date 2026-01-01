@@ -58,6 +58,8 @@ Cela indique que le réseau de distribution est globalement opérationnel sur la
 
 <p align="center"> <img src="images/NB_boutique_par_status.png" alt="Répartition des boutiques par statut" width="500"> </p>
 
+
+
 ## Analyse approfondie des insights
 
 ### Insight 1 – Chiffre d’affaires vs nombre de ventes par catégorie produit
@@ -75,6 +77,9 @@ Cette analyse montre que les catégories qui se vendent le plus ne sont pas néc
   <img src="images/CA_nb_vente_categorie_de_produit.png" alt="Chiffre d’affaires et nombre de ventes par catégorie produit" width="700">
 </p>
 
+
+
+
 ### Insight 2 – Évolution du chiffre d’affaires dans le temps (CA vs CA-1)
 
 Ce graphique présente l’évolution mensuelle du **chiffre d’affaires (CA)** comparée à celle de l’année précédente (**CA-1**).  
@@ -89,6 +94,10 @@ Cette analyse met en évidence une progression globale du chiffre d’affaires, 
   <img src="images/CA_vs_CA-1_par_mois.png" alt="Évolution mensuelle du chiffre d’affaires – CA vs CA-1" width="700">
 </p>
 
+
+
+
+
 ### Insight 3 – Forte concentration du chiffre d’affaires sur un nombre limité de catégories
 
 L’analyse de la répartition du chiffre d’affaires par catégorie met en évidence une **concentration marquée de la valeur** sur un nombre restreint de segments.  
@@ -98,7 +107,11 @@ Cette structure indique que la performance repose largement sur un levier unique
 La dépendance à un nombre réduit de catégories souligne l’importance du pilotage du mix produit dans la stratégie commerciale globale.
 
 
+
+
+
 ## Recommandations
+
 
 Sur la base des analyses réalisées, plusieurs actions peuvent être envisagées pour renforcer la performance commerciale et limiter les risques identifiés.
 
