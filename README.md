@@ -74,6 +74,7 @@ Cette analyse montre que les catégories qui se vendent le plus ne sont pas néc
 <p align="center">
   <img src="images/CA_nb_vente_categorie_de_produit.png" alt="Chiffre d’affaires et nombre de ventes par catégorie produit" width="700">
 </p>
+
 ### Insight 2 – Évolution du chiffre d’affaires dans le temps (CA vs CA-1)
 
 Ce graphique présente l’évolution mensuelle du **chiffre d’affaires (CA)** comparée à celle de l’année précédente (**CA-1**).  
@@ -87,5 +88,36 @@ Cette analyse met en évidence une progression globale du chiffre d’affaires, 
 <p align="center">
   <img src="images/CA_vs_CA-1_par_mois.png" alt="Évolution mensuelle du chiffre d’affaires – CA vs CA-1" width="700">
 </p>
+
+### Insight 3 – Forte concentration du chiffre d’affaires sur un nombre limité de catégories
+
+L’analyse de la répartition du chiffre d’affaires par catégorie met en évidence une **concentration marquée de la valeur** sur un nombre restreint de segments.  
+La catégorie *Computers* constitue le principal moteur de la performance commerciale, tandis que les autres catégories contribuent de manière significativement plus limitée au chiffre d’affaires global.
+
+Cette structure indique que la performance repose largement sur un levier unique, ce qui peut représenter à la fois un avantage en termes de spécialisation et un risque en cas de variation de la demande sur cette catégorie clé.  
+La dépendance à un nombre réduit de catégories souligne l’importance du pilotage du mix produit dans la stratégie commerciale globale.
+
+
+## Recommandations
+
+Sur la base des analyses réalisées, plusieurs actions peuvent être envisagées pour renforcer la performance commerciale et limiter les risques identifiés.
+
+- **Renforcer les leviers à forte création de valeur**  
+  La catégorie *Computers* étant le principal moteur du chiffre d’affaires, il est pertinent de prioriser les actions commerciales et marketing sur ces produits afin de consolider la performance globale.
+
+- **Optimiser les catégories à fort volume mais faible valeur**  
+  Certaines catégories présentent un volume de ventes élevé sans générer un chiffre d’affaires proportionnel. Un ajustement du positionnement prix, de l’offre ou des promotions pourrait améliorer leur contribution à la valeur.
+
+- **Réduire la dépendance à un nombre limité de catégories**  
+  La concentration du chiffre d’affaires sur peu de catégories expose l’activité à un risque de dépendance. Le développement de catégories secondaires permettrait de mieux équilibrer la création de valeur.
+
+- **Adapter les actions commerciales aux dynamiques temporelles**  
+  Les variations mensuelles observées suggèrent un effet de saisonnalité. Anticiper ces périodes via des campagnes ciblées peut contribuer à lisser la performance sur l’année.
+
+- **Mettre en place un suivi continu des indicateurs clés**  
+  Un monitoring régulier du chiffre d’affaires, du nombre de ventes et de leur évolution par rapport à l’année précédente est essentiel pour ajuster rapidement les décisions.
+
+
+
 
 
