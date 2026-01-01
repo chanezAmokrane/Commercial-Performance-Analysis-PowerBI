@@ -38,9 +38,14 @@ Des contrôles de cohérence ont été réalisés avant l’analyse pour garanti
 ### 2) Répartition du chiffre d’affaires par catégorie produit
 
 Ce graphique présente la répartition du chiffre d’affaires par catégorie de produit.  
-La catégorie **Computers** représente environ **57 %** du chiffre d’affaires total, suivie par **TV and Video** (environ **24 %**) et **Cell Phones** (environ **14 %**).  
+La catégorie **Computers** représente environ **57 %** du chiffre d’affaires total, suivie par **TV and Video** (environ **24 %**) et **Cell Phones** (environ **14 %**). 
+
+---
 Les autres catégories contribuent de manière plus limitée au chiffre d’affaires global.
-![CA par catégorie produit](images/ca_par_categorie_produit.png)
+<p align="center">
+  <img src="images/ca_par_categorie_produit.png" alt="CA par catégorie produit" width="600">
+</p>
+
 
 ---
 
