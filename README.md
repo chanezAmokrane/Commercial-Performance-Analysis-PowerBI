@@ -74,5 +74,18 @@ Cette analyse montre que les catégories qui se vendent le plus ne sont pas néc
 <p align="center">
   <img src="images/CA_nb_vente_categorie_de_produit.png" alt="Chiffre d’affaires et nombre de ventes par catégorie produit" width="700">
 </p>
+### Insight 2 – Évolution du chiffre d’affaires dans le temps (CA vs CA-1)
+
+Ce graphique présente l’évolution mensuelle du **chiffre d’affaires (CA)** comparée à celle de l’année précédente (**CA-1**).  
+Il permet d’analyser la dynamique de la performance commerciale sur l’ensemble de l’année.
+
+Le chiffre d’affaires de l’année en cours est globalement supérieur à celui de l’année précédente sur la majorité des mois, avec des pics de performance observés notamment au milieu et à la fin de l’année.  
+Certaines périodes montrent cependant un rapprochement entre le CA et le CA-1, suggérant des phases de stabilisation ou de ralentissement temporaire.
+
+Cette analyse met en évidence une progression globale du chiffre d’affaires, tout en soulignant l’existence de variations saisonnières dans la performance.
+
+<p align="center">
+  <img src="images/CA_vs_CA-1_par_mois.png" alt="Évolution mensuelle du chiffre d’affaires – CA vs CA-1" width="700">
+</p>
 
 
