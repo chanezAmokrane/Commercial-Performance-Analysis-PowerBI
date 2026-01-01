@@ -53,6 +53,10 @@ Les autres catégories contribuent de manière plus limitée au chiffre d’affa
 ---
 
 ### 3) Répartition des boutiques par statut (actives vs inactives)
+Ce graphique présente la répartition des boutiques selon leur statut d’activité.
+La grande majorité des boutiques sont actives (environ 96 %), tandis qu’une part réduite est inactive (environ 4 %).
+Cela indique que le réseau de distribution est globalement opérationnel sur la période analysée.
 
+<p align="center"> <img src="images/NB_boutique_par_status.png" alt="Répartition des boutiques par statut" width="500"> </p>
 
 
